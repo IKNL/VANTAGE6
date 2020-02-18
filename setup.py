@@ -56,7 +56,7 @@ setup(
         'requests',
         'termcolor',
         'sqlalchemy',
-        'flasgger==0.9.3.dev0' # flassger OAS 3+ support
+        'flasgger' # flassger OAS 3+ support
     ],
     package_data={  
         'pytaskmanager': [
